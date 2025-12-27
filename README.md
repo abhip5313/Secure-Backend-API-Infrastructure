@@ -36,6 +36,8 @@ Secure SSH access via Bastion Host only
 
 🖼 Architecture Diagram
 
+![Secure Backend Architecture](img2.png)
+
 🔁 Traffic Flow Explanation
 
 Admin connects to Bastion Host using SSH (port 22)
